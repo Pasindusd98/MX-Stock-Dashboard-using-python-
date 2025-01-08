@@ -51,4 +51,17 @@ APIs:
 
 Yahoo Finance API (or a similar financial data API) is used to fetch real-time pricing, historical data, and fundamental financial information.
 News API is employed to retrieve and display
+---------------------------------------------------------------------------------------------------------------------
+Stock and Forex Analysis:
+Candlestick and line charts for selected tickers or forex pairs.
+Pricing data with annual return, standard deviation, and risk-adjusted return.
 
+Fundamental Data:
+Balance Sheet, Income Statement, and Cash Flow Statement for stocks (not available for forex).
+
+News:
+Latest news headlines, summaries, and sentiment analysis for selected stocks.
+
+Prediction:
+ARIMA-based forecast for the next 10 time steps.
+Visualization of historical data and predicted values.
